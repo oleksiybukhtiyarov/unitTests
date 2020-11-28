@@ -1,0 +1,332 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "01 reversestring",
+            "cwd": "completed_exercises_dart/01 reversestring",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "02 palindrome",
+            "cwd": "completed_exercises_dart/02 palindrome",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "03 reverseint",
+            "cwd": "completed_exercises_dart/03 reverseint",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "04 maxchar",
+            "cwd": "completed_exercises_dart/04 maxchar",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "05 fizzbuzz",
+            "cwd": "completed_exercises_dart/05 fizzbuzz",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "06 chunk",
+            "cwd": "completed_exercises_dart/06 chunk",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "07 anagrams",
+            "cwd": "completed_exercises_dart/07 anagrams",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "08 capitalize",
+            "cwd": "completed_exercises_dart/08 capitalize",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "09 steps",
+            "cwd": "completed_exercises_dart/09 steps",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "10 pyramid",
+            "cwd": "completed_exercises_dart/10 pyramid",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "11 vowels",
+            "cwd": "completed_exercises_dart/11 vowels",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "12 matrix",
+            "cwd": "completed_exercises_dart/12 matrix",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "13 fib",
+            "cwd": "completed_exercises_dart/13 fib",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "14 queue",
+            "cwd": "completed_exercises_dart/14 queue",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "15 weave",
+            "cwd": "completed_exercises_dart/15 weave",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "16 stack",
+            "cwd": "completed_exercises_dart/16 stack",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "17 qfroms",
+            "cwd": "completed_exercises_dart/17 qfroms",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "18 linkedlist",
+            "cwd": "completed_exercises_dart/18 linkedlist",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "19 midpoint",
+            "cwd": "completed_exercises_dart/19 midpoint",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "19a fromlast",
+            "cwd": "completed_exercises_dart/19a fromlast",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "20 circular",
+            "cwd": "completed_exercises_dart/20 circular",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "21 tree",
+            "cwd": "completed_exercises_dart/21 tree",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "22 levelwidth",
+            "cwd": "completed_exercises_dart/22 levelwidth",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "23 bst",
+            "cwd": "completed_exercises_dart/23 bst",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "24 validate",
+            "cwd": "completed_exercises_dart/24 validate",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "25 events",
+            "cwd": "completed_exercises_dart/25 events",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "26 sorting",
+            "cwd": "completed_exercises_dart/26 sorting",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "01 reversestring",
+            "cwd": "exercises_dart/01 reversestring",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "02 palindrome",
+            "cwd": "exercises_dart/02 palindrome",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "03 reverseint",
+            "cwd": "exercises_dart/03 reverseint",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "04 maxchar",
+            "cwd": "exercises_dart/04 maxchar",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "05 fizzbuzz",
+            "cwd": "exercises_dart/05 fizzbuzz",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "06 chunk",
+            "cwd": "exercises_dart/06 chunk",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "07 anagrams",
+            "cwd": "exercises_dart/07 anagrams",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "08 capitalize",
+            "cwd": "exercises_dart/08 capitalize",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "09 steps",
+            "cwd": "exercises_dart/09 steps",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "10 pyramid",
+            "cwd": "exercises_dart/10 pyramid",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "11 vowels",
+            "cwd": "exercises_dart/11 vowels",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "12 matrix",
+            "cwd": "exercises_dart/12 matrix",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "13 fib",
+            "cwd": "exercises_dart/13 fib",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "14 queue",
+            "cwd": "exercises_dart/14 queue",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "15 weave",
+            "cwd": "exercises_dart/15 weave",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "16 stack",
+            "cwd": "exercises_dart/16 stack",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "17 qfroms",
+            "cwd": "exercises_dart/17 qfroms",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "18 linkedlist",
+            "cwd": "exercises_dart/18 linkedlist",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "19 midpoint",
+            "cwd": "exercises_dart/19 midpoint",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "19a fromlast",
+            "cwd": "exercises_dart/19a fromlast",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "20 circular",
+            "cwd": "exercises_dart/20 circular",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "21 tree",
+            "cwd": "exercises_dart/21 tree",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "22 levelwidth",
+            "cwd": "exercises_dart/22 levelwidth",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "23 bst",
+            "cwd": "exercises_dart/23 bst",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "24 validate",
+            "cwd": "exercises_dart/24 validate",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "25 events",
+            "cwd": "exercises_dart/25 events",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "26 sorting",
+            "cwd": "exercises_dart/26 sorting",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
